@@ -1,11 +1,11 @@
 # Site settings
 author: Burak Kocak
-title: My First Portfolio Project
+title: Life of Programmers
 header-img: img/home-bg.png
 email: burakkocak884@hotmail.com
 copyright_name: Burak Kocak
 description: > # this means to ignore newlines until "baseurl:"
-  Fifa Worldcup User App
+  Learning to Code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  burakkocak884
