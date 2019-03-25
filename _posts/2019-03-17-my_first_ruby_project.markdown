@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My First Ruby Project "
-date:       2019-03-17 19:15:10 +0000
+date:       2019-03-17 15:15:10 -0400
 permalink:  my_first_ruby_project
 ---
 
@@ -11,9 +11,12 @@ permalink:  my_first_ruby_project
 				 
 				 
 				 
-				 I created a app called "worldcup" which is an application that brings information to a 
+				 
+				 
 
-user from the biggest sports even in the history, FIFA WorldCup. The app is created using 
+ I created a app called "worldcup" which is an application that brings information to a  user from the biggest sports
+ 
+ even in the history, FIFA WorldCup. The app is created using 
 
 Subime text editor. 
 
@@ -57,7 +60,8 @@ gems.
 
 **Conclusion**
 
-       Completing the project and meeting requirements were challenging at times. However ,
+
+               Completing the project and meeting requirements were challenging at times. However ,
 
  reaching useful resources helped me pass through obstacles. I have learned a lot more than 
 
