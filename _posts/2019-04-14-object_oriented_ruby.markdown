@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Object Oriented Ruby"
-date:       2019-04-15 02:10:10 +0000
+date:       2019-04-14 22:10:10 -0400
 permalink:  object_oriented_ruby
 ---
 
